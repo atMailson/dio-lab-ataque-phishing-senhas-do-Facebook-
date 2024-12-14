@@ -15,5 +15,5 @@ Foi executado a ferramenta setoolkit, e acessado os seguintes caminhos:
 1) Spear-Phishing Attack Vectors
 2) Website Attack Vectors
 3) Credential Harvester Attack Method
-4) Site Cloner
-5) URL: http://facebook.com/
+4) Custom import
+6) URL: http://facebook.com/
