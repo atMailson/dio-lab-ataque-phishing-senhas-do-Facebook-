@@ -21,4 +21,4 @@ Foi executado a ferramenta setoolkit, e acessado os seguintes caminhos:
 6) URL: http://facebook.com/
 
 # Resultado Final
-Após a realização da quebra do script de defesa do facebook, contra códigos maliciosos, realizando o edit código fonte, alterando e excluindo o script supramencionado, foi possível obter acesso as informações de login e senha. 
+Após a realização da quebra do script de defesa do facebook, contra códigos maliciosos, realizando o edite do código fonte, alterando e excluindo o script supramencionado, foi possível obter acesso as informações de login e senha. 
