@@ -6,7 +6,7 @@ Foi criado um login no Facebook, para realizar os testes de ataque de phishing.
 
 Nome do login: Antonio Silva
 
-E-mail: antoniomailson95@gmail.com
+E-mail: antoniomailson01@gmail.com
 
 # Ferramenta:
 Para este teste de phishing foi utilizado a ferramenta Setoolkit.
